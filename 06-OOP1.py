@@ -14,7 +14,7 @@ class Calculator:
     def __init__(self,x,y): #constructor
         print(f'Welcome {x} {y}')
 
-        print(self.sum(5,6))
+        print(self.sum(5,6))0Ad
         
 '''
     def __init__(self,name): #constructor
